@@ -1,3 +1,6 @@
+//The code is about a game,which a computer generates a random number defaulty we have to guess it by entering a proper number.If our entering number is greater than target number then it produces a output as too high,if it is less then produce the output as too low.
+//If it is correct number then tells that it is the correct number and you find it in n number of attempts.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
